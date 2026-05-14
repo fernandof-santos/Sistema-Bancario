@@ -21,3 +21,8 @@ Este projeto é um sistema bancário simples desenvolvido em Python, com o objet
 1. Clone este repositório:
 ```bash
 git clone https://github.com/fernandof-santos/Sistema-Bancario.git
+
+## 👨‍💻 Autores
+
+- Fernando Ferreira  
+- Arthur Mansur  
